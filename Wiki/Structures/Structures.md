@@ -161,63 +161,48 @@ Enhances the main End island where you fight the Ender Dragon. The island featur
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="Bridge.png" alt="Bridge">
-        <figcaption>Bridge</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Cave.png" alt="Cave">
-        <figcaption>Cave</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Desert Cave.png" alt="Desert Cave">
-        <figcaption>Desert Cave</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Desert Temple.png" alt="Desert Temple">
-        <figcaption>Desert Temple</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Dungeon.png" alt="Dungeon">
-        <figcaption>Dungeon</figcaption>
     </div>
     <div class="gallery-item">
         <img src="End Gateway.png" alt="End Gateway">
-        <figcaption>End Gateway</figcaption>
     </div>
     <div class="gallery-item">
         <img src="End Island.png" alt="End Island">
-        <figcaption>End Island</figcaption>
     </div>
     <div class="gallery-item">
         <img src="End Portal.png" alt="End Portal">
-        <figcaption>End Portal</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Ice Cave.png" alt="Ice Cave">
-        <figcaption>Ice Cave</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Jungle Temple.png" alt="Jungle Temple">
-        <figcaption>Jungle Temple</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Mineshaft.png" alt="Mineshaft">
-        <figcaption>Mineshaft</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Nether Fortress.png" alt="Nether Fortress">
-        <figcaption>Nether Fortress</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Ocean Monument.png" alt="Ocean Monument">
-        <figcaption>Ocean Monument</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Stronghold.png" alt="Stronghold">
-        <figcaption>Stronghold</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Well.png" alt="Well">
-        <figcaption>Well</figcaption>
     </div>
 </div>
 

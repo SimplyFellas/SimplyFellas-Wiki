@@ -91,23 +91,18 @@ With Tom's Simple Storage for centralized access, Functional Storage drawers for
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="CarryOn.png" alt="Carry On">
-        <figcaption>Carry On</figcaption>
     </div>
     <div class="gallery-item">
         <img src="FunctionalStorage.png" alt="Functional Storage">
-        <figcaption>Functional Storage</figcaption>
     </div>
     <div class="gallery-item">
         <img src="SophisticatedBackpacks.png" alt="Sophisticated Backpacks">
-        <figcaption>Sophisticated Backpacks</figcaption>
     </div>
     <div class="gallery-item">
         <img src="TomsSimpleStorage.png" alt="Tom's Simple Storage">
-        <figcaption>Tom's Simple Storage</figcaption>
     </div>
     <div class="gallery-item">
         <img src="TrashCans.png" alt="Trash Cans">
-        <figcaption>Trash Cans</figcaption>
     </div>
 </div>
 

@@ -125,51 +125,39 @@ This mod changes the ender dragon to drop a dragon egg upon every death, instead
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="Angelfish.png" alt="Angelfish">
-        <figcaption>Angelfish</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Bluffs.png" alt="Bluffs">
-        <figcaption>Bluffs</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Butchercraft.png" alt="Butchercraft">
-        <figcaption>Butchercraft</figcaption>
     </div>
     <div class="gallery-item">
         <img src="FishingInCave.png" alt="Fishing in Cave">
-        <figcaption>Cave Fishing</figcaption>
     </div>
     <div class="gallery-item">
         <img src="GoblinTraders.png" alt="Goblin Traders">
-        <figcaption>Goblin Traders</figcaption>
     </div>
     <div class="gallery-item">
         <img src="HamsterPets.png" alt="Hamster Pets">
-        <figcaption>Hamster Pets</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Koi.png" alt="Koi">
-        <figcaption>Koi Fish</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Naturally Trimmed.png" alt="Naturally Trimmed">
-        <figcaption>Naturally Trimmed</figcaption>
     </div>
     <div class="gallery-item">
         <img src="OceanCreeper.png" alt="Ocean Creeper">
-        <figcaption>Ocean Creeper</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Otters.png" alt="Otters">
-        <figcaption>Otters</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Ribbits.png" alt="Ribbits">
-        <figcaption>Ribbits</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Sculptor.png" alt="Sculptor">
-        <figcaption>Sculptor</figcaption>
     </div>
 </div>
 

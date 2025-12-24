@@ -222,27 +222,21 @@ Keeps automatic backups of your world, protecting against data loss.
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="AppleSkin.gif" alt="AppleSkin">
-        <figcaption>AppleSkin - Food Information</figcaption>
     </div>
     <div class="gallery-item">
         <img src="BetterAdvancements.png" alt="Better Advancements">
-        <figcaption>Better Advancements</figcaption>
     </div>
     <div class="gallery-item">
         <img src="ElytraTrims.png" alt="Elytra Trims">
-        <figcaption>Elytra Trims</figcaption>
     </div>
     <div class="gallery-item">
         <img src="EMI.png" alt="EMI">
-        <figcaption>EMI Interface</figcaption>
     </div>
     <div class="gallery-item">
         <img src="ToolTrims.png" alt="Tool Trims">
-        <figcaption>Tool Trims</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Ultimine.png" alt="Ultimine">
-        <figcaption>FTB Ultimine</figcaption>
     </div>
 </div>
 

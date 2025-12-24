@@ -219,35 +219,27 @@ Allows you to directly pump liquid fuel into blaze burners.
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="Copycats.png" alt="Copycats">
-        <figcaption>Copycats+</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Create Automation.png" alt="Create Automation">
-        <figcaption>Create Automation</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Fish Hypertube.gif" alt="Hypertubes">
-        <figcaption>Hypertubes</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Processing.png" alt="Processing">
-        <figcaption>Processing Systems</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Refinery.png" alt="Refinery">
-        <figcaption>Factory Must Grow Refinery</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Steam Engine.png" alt="Steam Engine">
-        <figcaption>Steam Engines</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Trains.png" alt="Trains">
-        <figcaption>Create Trains</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Tree Farm.png" alt="Tree Farm">
-        <figcaption>Tree Farm</figcaption>
     </div>
 </div>
 

@@ -163,43 +163,33 @@ With all these optimization mods working together, SimplyFellas delivers excelle
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="C2ME.png" alt="C2ME">
-        <figcaption>C2ME</figcaption>
     </div>
     <div class="gallery-item">
         <img src="CreateFPS.png" alt="Create Better FPS">
-        <figcaption>Create Better FPS</figcaption>
     </div>
     <div class="gallery-item">
         <img src="CreateShaders.png" alt="Create Shaders">
-        <figcaption>Create Shaders</figcaption>
     </div>
     <div class="gallery-item">
         <img src="CreateShaders2.png" alt="Create Shaders 2">
-        <figcaption>Create Shaders 2</figcaption>
     </div>
     <div class="gallery-item">
         <img src="EntityCulling.png" alt="Entity Culling">
-        <figcaption>Entity Culling</figcaption>
     </div>
     <div class="gallery-item">
         <img src="FPSExample.png" alt="FPS Example">
-        <figcaption>FPS Performance</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Krypton.png" alt="Krypton">
-        <figcaption>Krypton</figcaption>
     </div>
     <div class="gallery-item">
         <img src="NoChatReports.png" alt="NoChatReports">
-        <figcaption>NoChatReports</figcaption>
     </div>
     <div class="gallery-item">
         <img src="SmartBounds.png" alt="Smart Bounds">
-        <figcaption>Create Smart Bounds</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Sodium.png" alt="Sodium">
-        <figcaption>Sodium</figcaption>
     </div>
 </div>
 

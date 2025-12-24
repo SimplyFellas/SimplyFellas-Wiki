@@ -80,35 +80,27 @@ With the combination of Farmer's Delight, Extra Delight, Create: Food, Create: C
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="Butchercraft.png" alt="Butchercraft">
-        <figcaption>Butchercraft</figcaption>
     </div>
     <div class="gallery-item">
         <img src="CreateConfectionary.png" alt="Create Confectionary">
-        <figcaption>Create Confectionary</figcaption>
     </div>
     <div class="gallery-item">
         <img src="CreateFood.png" alt="Create Food">
-        <figcaption>Create Food</figcaption>
     </div>
     <div class="gallery-item">
         <img src="ExtraDelight.png" alt="Extra Delight">
-        <figcaption>Extra Delight</figcaption>
     </div>
     <div class="gallery-item">
         <img src="FarmersDelight.png" alt="Farmer's Delight">
-        <figcaption>Farmer's Delight</figcaption>
     </div>
     <div class="gallery-item">
         <img src="FarmersDelightCrops.png" alt="Farmer's Delight Crops">
-        <figcaption>Farmer's Delight Crops</figcaption>
     </div>
     <div class="gallery-item">
         <img src="SliceAndDice.png" alt="Slice & Dice">
-        <figcaption>Create Slice & Dice</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Tide.png" alt="Tide">
-        <figcaption>Tide Fishing</figcaption>
     </div>
 </div>
 

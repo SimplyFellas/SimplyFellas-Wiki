@@ -130,31 +130,24 @@ The visual enhancements in SimplyFellas work together to create a stunning visua
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="BetterGrass.png" alt="BetterGrassify">
-        <figcaption>BetterGrassify</figcaption>
     </div>
     <div class="gallery-item">
         <img src="CherryForest.png" alt="Cherry Forest">
-        <figcaption>Cherry Forest</figcaption>
     </div>
     <div class="gallery-item">
         <img src="DistantHorizons.png" alt="Distant Horizons">
-        <figcaption>Distant Horizons</figcaption>
     </div>
     <div class="gallery-item">
         <img src="EndCity.png" alt="End City">
-        <figcaption>End City</figcaption>
     </div>
     <div class="gallery-item">
         <img src="FallingLeaves.gif" alt="Falling Leaves">
-        <figcaption>Falling Leaves</figcaption>
     </div>
     <div class="gallery-item">
         <img src="NotEnoughAnimations.png" alt="Not Enough Animations">
-        <figcaption>Not Enough Animations</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Shaders.png" alt="Shaders">
-        <figcaption>Iris Shaders</figcaption>
     </div>
 </div>
 

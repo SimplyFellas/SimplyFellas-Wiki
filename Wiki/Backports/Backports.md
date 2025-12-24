@@ -71,23 +71,18 @@ Introduces new animal variants that add variety to the mobs you encounter in you
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="Bundles of Bravery.png" alt="Bundles of Bravery">
-        <figcaption>Bundles of Bravery</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Chase the Skies.png" alt="Chase the Skies">
-        <figcaption>Chase the Skies</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Copper Age.png" alt="Copper Age">
-        <figcaption>Copper Age</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Spring to Life.png" alt="Spring to Life">
-        <figcaption>Spring to Life</figcaption>
     </div>
     <div class="gallery-item">
         <img src="The Garden Awakens.png" alt="The Garden Awakens">
-        <figcaption>The Garden Awakens</figcaption>
     </div>
 </div>
 

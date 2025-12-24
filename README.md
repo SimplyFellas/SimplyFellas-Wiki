@@ -4,17 +4,17 @@
     <img src="Banners/SimplyFellas_400x.png" alt="Check out the SimplyFellas modpack!" class="simplyfellas-logo">
 </a>
 
-# Welcome to the SimplyFellas Wiki!
+<img src="Banners/WelcomeBanner.png" alt="Features">
 
 SimplyFellas is a Vanilla+ modpack for Minecraft 1.21.1. The pack is centered around the Create mod, along with backports from newer versions and other quality of life mods that fit the general aesthetic of Minecraft. Here you will find the full SimplyFellas wiki with tons of information about the pack!
 
-## About SimplyFellas
+<img src="Banners/InformationBanner.png" alt="Information" class="banner-image">
 
 SimplyFellas is a carefully curated modpack that combines the automation power of Create with extensive quality of life improvements, visual enhancements, and content additions. The pack maintains the vanilla Minecraft aesthetic while dramatically expanding gameplay possibilities through automation, exploration, and customization.
 
 <img src="Banners/FeaturesBanner.png" alt="Features" class="banner-image">
 
-### Key Features
+This project is maintained and updated almost daily for the users of the SimplyFellas! The modpack represents a commitment to quality, performance, and an enjoyable Minecraft experience.
 
 * **Fully Optimized**: Optimized from the ground-up to meet all expectations! The pack includes comprehensive performance optimizations ensuring smooth gameplay even with nearly 200 mods.
 * **Kitchen-Sink Aesthetic**: Kitchen-sink aesthetic with all the configurations you'll need to get started! Every aspect has been carefully tuned for the best experience.
@@ -25,13 +25,7 @@ SimplyFellas is a carefully curated modpack that combines the automation power o
 * **Classic Soundtracks**: Classic Alpha/Beta Minecraft soundtracks for a nostalgic audio experience!
 * **Universal Compatibility**: Compatible with all of your favorite CurseForge launchers!
 
-<img src="Banners/InformationBanner.png" alt="Information" class="banner-image">
-
-This project is maintained and updated almost daily for the users of the SimplyFellas! The modpack represents a commitment to quality, performance, and an enjoyable Minecraft experience.
-
 <img src="Banners/BackportsBanner.png" alt="Backports" class="banner-image">
-
-### Backported Content
 
 SimplyFellas includes extensive backports from newer Minecraft versions, bringing you features from future updates:
 
@@ -54,83 +48,58 @@ Now officially partnered with Wabbanode! Please use the code **[SMPFELLAS](https
 
 ---
 
-## Wiki Categories
+<img src="Banners/WikiBanner.png" alt="Wiki Categories" class="banner-image">
 
 Explore the comprehensive SimplyFellas wiki organized by category:
 
-<div class="wiki-categories">
+### [Accessories](Wiki/Accessories/Accessories.md)
+Additional equipment slots for elytra, backtanks, backpacks, and more
 
-<a href="Wiki/Accessories/Accessories.md" class="wiki-category-link">
-<h3>Accessories</h3>
-<p>Additional equipment slots for elytra, backtanks, backpacks, and more</p>
-</a>
+### [Backports](Wiki/Backports/Backports.md)
+Features from newer Minecraft versions backported to 1.21.1
 
-<a href="Wiki/Backports/Backports.md" class="wiki-category-link">
-<h3>Backports</h3>
-<p>Features from newer Minecraft versions backported to 1.21.1</p>
-</a>
+### [Character & Quality of Life](Wiki/Character%20%26%20Quality%20of%20Life/Character%20%26%20Quality%20of%20Life.md)
+UI improvements, inventory enhancements, and gameplay tweaks
 
-<a href="Wiki/Character & Quality of Life/Character & Quality of Life.md" class="wiki-category-link">
-<h3>Character & Quality of Life</h3>
-<p>UI improvements, inventory enhancements, and gameplay tweaks</p>
-</a>
+### [Create](Wiki/Create/Create.md)
+The comprehensive Create automation ecosystem with 30+ mods
 
-<a href="Wiki/Create/Create.md" class="wiki-category-link">
-<h3>Create</h3>
-<p>The comprehensive Create automation ecosystem with 30+ mods</p>
-</a>
+### [Creatures](Wiki/Creatures/Creatures.md)
+New animals, mob overhauls, and creature enhancements
 
-<a href="Wiki/Creatures/Creatures.md" class="wiki-category-link">
-<h3>Creatures</h3>
-<p>New animals, mob overhauls, and creature enhancements</p>
-</a>
+### [Factory Additions](Wiki/Factory%20Additions/Factory%20Additions.md)
+Additional automation tools, computers, and building utilities
 
-<a href="Wiki/Factory Additions/Factory Additions.md" class="wiki-category-link">
-<h3>Factory Additions</h3>
-<p>Additional automation tools, computers, and building utilities</p>
-</a>
+### [Food](Wiki/Food/Food.md)
+Comprehensive food mods with hundreds of recipes and ingredients
 
-<a href="Wiki/Food/Food.md" class="wiki-category-link">
-<h3>Food</h3>
-<p>Comprehensive food mods with hundreds of recipes and ingredients</p>
-</a>
+### [Structures](Wiki/Structures/Structures.md)
+Enhanced world generation with new and improved structures
 
-<a href="Wiki/Structures/Structures.md" class="wiki-category-link">
-<h3>Structures</h3>
-<p>Enhanced world generation with new and improved structures</p>
-</a>
+### [Optimization](Wiki/Optimization/Optimization.md)
+Performance mods ensuring smooth gameplay with 200 mods
 
-<a href="Wiki/Optimization/Optimization.md" class="wiki-category-link">
-<h3>Optimization</h3>
-<p>Performance mods ensuring smooth gameplay with 200 mods</p>
-</a>
+### [Storage](Wiki/Storage/Storage.md)
+Storage networks, drawers, backpacks, and item management
 
-<a href="Wiki/Storage/Storage.md" class="wiki-category-link">
-<h3>Storage</h3>
-<p>Storage networks, drawers, backpacks, and item management</p>
-</a>
-
-<a href="Wiki/Visuals/Visuals.md" class="wiki-category-link">
-<h3>Visuals</h3>
-<p>Shaders, visual effects, furniture, and aesthetic enhancements</p>
-</a>
-
-</div>
+### [Visuals](Wiki/Visuals/Visuals.md)
+Shaders, visual effects, furniture, and aesthetic enhancements
 
 ---
 
-## Getting Started
+<img src="Banners/GettingStartedBanner.png" alt="Getting Started" class="banner-image">
 
 1. **Install the Pack**: Download SimplyFellas from CurseForge using your preferred launcher (Prism, CurseForge App, Modrinth, etc.)
 2. **Allocate RAM**: Ensure you have at least 6-8GB of RAM allocated for optimal performance
 3. **Explore the Wiki**: Use the categories above to learn about all the mods and features included
 
-## Version Information
+<img src="Banners/VersionBanner.png" alt="Version" class="banner-image">
 
 * **Minecraft Version**: 1.21.1
+* **Modpack Version**: 1.3.4
 * **Modloader**: NeoForge
 * **Mod Count**: ~200 mods
-* **Last Updated**: Regularly maintained and updated
+* **Wiki Last Updated**: 12/24/2025
 
 ---
 

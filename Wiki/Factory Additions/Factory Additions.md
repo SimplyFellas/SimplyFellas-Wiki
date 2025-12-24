@@ -81,23 +81,18 @@ A tool like the Satisfactory zipline that allows you to zip around on your elect
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="Alloy Forging.png" alt="Alloy Forgery">
-        <figcaption>Alloy Forgery</figcaption>
     </div>
     <div class="gallery-item">
         <img src="ComputerCraft.png" alt="ComputerCraft">
-        <figcaption>ComputerCraft</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Rechiseled.png" alt="Rechiseled">
-        <figcaption>Rechiseled</figcaption>
     </div>
     <div class="gallery-item">
         <img src="VillagersWand.png" alt="Villagers Wand">
-        <figcaption>Villagers Wand</figcaption>
     </div>
     <div class="gallery-item">
         <img src="Zipline.png" alt="Zipline">
-        <figcaption>Zipline</figcaption>
     </div>
 </div>
 
