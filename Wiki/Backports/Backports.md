@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="../Styles/Stylesheet.css">
+<link rel="stylesheet" href="../../Styles/Stylesheet.css">
 
 <div class="wiki-content">
 
-<a href="../README.md" class="nav-back">← Back to Wiki Home</a>
+<a href="../../WikiHomepage.md" class="nav-back">← Back to Wiki Home</a>
 
 # Backports
 

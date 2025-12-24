@@ -4,13 +4,19 @@
     <img src="Banners/SimplyFellas_400x.png" alt="Check out the SimplyFellas modpack!" class="simplyfellas-logo">
 </a>
 
-<img src="Banners/WelcomeBanner.png" alt="Features">
+---
+
+<img src="Banners/WelcomeBanner.png" alt="Welcome to SimplyFellas!">
 
 SimplyFellas is a Vanilla+ modpack for Minecraft 1.21.1. The pack is centered around the Create mod, along with backports from newer versions and other quality of life mods that fit the general aesthetic of Minecraft. Here you will find the full SimplyFellas wiki with tons of information about the pack!
+
+---
 
 <img src="Banners/InformationBanner.png" alt="Information" class="banner-image">
 
 SimplyFellas is a carefully curated modpack that combines the automation power of Create with extensive quality of life improvements, visual enhancements, and content additions. The pack maintains the vanilla Minecraft aesthetic while dramatically expanding gameplay possibilities through automation, exploration, and customization.
+
+---
 
 <img src="Banners/FeaturesBanner.png" alt="Features" class="banner-image">
 
@@ -25,6 +31,8 @@ This project is maintained and updated almost daily for the users of the SimplyF
 * **Classic Soundtracks**: Classic Alpha/Beta Minecraft soundtracks for a nostalgic audio experience!
 * **Universal Compatibility**: Compatible with all of your favorite CurseForge launchers!
 
+---
+
 <img src="Banners/BackportsBanner.png" alt="Backports" class="banner-image">
 
 SimplyFellas includes extensive backports from newer Minecraft versions, bringing you features from future updates:
@@ -38,52 +46,13 @@ SimplyFellas includes extensive backports from newer Minecraft versions, bringin
 * **Backported Enderpearl Mechanics** - Improved enderpearl usage
 * **Backported Animal Variants** - New animal variations
 
-<img src="Banners/PartnershipBanner.png" alt="Partnership" class="banner-image">
-
-Now officially partnered with Wabbanode! Please use the code **[SMPFELLAS](https://wabbanode.com/affiliate/simplyfellas)** to earn 25% off the Wabbanode hosting service!
-
-<a href="https://wabbanode.com/affiliate/simplyfellas">
-    <img src="Banners/Wabbanode_5x1.png" alt="Create a SimplyFellas Wabbanode server!" class="wabbanode-banner">
-</a>
-
 ---
 
 <img src="Banners/WikiBanner.png" alt="Wiki Categories" class="banner-image">
 
-Explore the comprehensive SimplyFellas wiki organized by category:
+Explore the comprehensive SimplyFellas wiki organized by category. Click the link below to access the full wiki homepage with all category links:
 
-### [Accessories](Wiki/Accessories/Accessories.md)
-Additional equipment slots for elytra, backtanks, backpacks, and more
-
-### [Backports](Wiki/Backports/Backports.md)
-Features from newer Minecraft versions backported to 1.21.1
-
-### [Character & Quality of Life](Wiki/Character%20%26%20Quality%20of%20Life/Character%20%26%20Quality%20of%20Life.md)
-UI improvements, inventory enhancements, and gameplay tweaks
-
-### [Create](Wiki/Create/Create.md)
-The comprehensive Create automation ecosystem with 30+ mods
-
-### [Creatures](Wiki/Creatures/Creatures.md)
-New animals, mob overhauls, and creature enhancements
-
-### [Factory Additions](Wiki/Factory%20Additions/Factory%20Additions.md)
-Additional automation tools, computers, and building utilities
-
-### [Food](Wiki/Food/Food.md)
-Comprehensive food mods with hundreds of recipes and ingredients
-
-### [Structures](Wiki/Structures/Structures.md)
-Enhanced world generation with new and improved structures
-
-### [Optimization](Wiki/Optimization/Optimization.md)
-Performance mods ensuring smooth gameplay with 200 mods
-
-### [Storage](Wiki/Storage/Storage.md)
-Storage networks, drawers, backpacks, and item management
-
-### [Visuals](Wiki/Visuals/Visuals.md)
-Shaders, visual effects, furniture, and aesthetic enhancements
+**[View Full Wiki →](WikiHomepage.md)**
 
 ---
 
@@ -91,7 +60,9 @@ Shaders, visual effects, furniture, and aesthetic enhancements
 
 1. **Install the Pack**: Download SimplyFellas from CurseForge using your preferred launcher (Prism, CurseForge App, Modrinth, etc.)
 2. **Allocate RAM**: Ensure you have at least 6-8GB of RAM allocated for optimal performance
-3. **Explore the Wiki**: Use the categories above to learn about all the mods and features included
+3. **Explore the Wiki**: Use the wiki directory above to learn about all the mods and features included
+
+---
 
 <img src="Banners/VersionBanner.png" alt="Version" class="banner-image">
 
@@ -103,4 +74,10 @@ Shaders, visual effects, furniture, and aesthetic enhancements
 
 ---
 
-Thank you for choosing SimplyFellas! Enjoy your enhanced Minecraft experience!
+<img src="Banners/PartnershipBanner.png" alt="Partnership" class="banner-image">
+
+Now officially partnered with Wabbanode! Please use the code **[SMPFELLAS](https://wabbanode.com/affiliate/simplyfellas)** to earn 25% off the Wabbanode hosting service!
+
+<a href="https://wabbanode.com/affiliate/simplyfellas">
+    <img src="Banners/Wabbanode_5x1.png" alt="Create a SimplyFellas Wabbanode server!" class="wabbanode-banner">
+</a>
