@@ -67,7 +67,7 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 <img src="Banners/VersionBanner.png" alt="Version" class="banner-image">
 
 * **Minecraft Version**: 1.21.1
-* **Modpack Version**: 1.3.4
+* **Modpack Version**: 1.3.5
 * **Modloader**: NeoForge
 * **Mod Count**: ~200 mods
 
