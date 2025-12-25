@@ -61,14 +61,13 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 1. **Install the Pack**: Download SimplyFellas from CurseForge using your preferred launcher (Prism, CurseForge App, Modrinth, etc.)
 2. **Allocate RAM**: Ensure you have at least 6-8GB of RAM allocated for optimal performance
 3. **Explore the Wiki**: Use the wiki directory above to learn about all the mods and features included
-
 ---
 
-[![members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1452128644221767733)](https://discord.gg/nVNdu9krp8)
-
-<img src="Banners/DiscordBanner.png" alt="Discord" class="discord-image">
+<img src="Banners/DiscordBanner.png" alt="Discord" class="discord-image"> <img src="Banners/DiscordTextBanner.png" alt="Discord" class="banner-image">
 
 **[Join the SimplyFellas Discord →](https://discord.gg/nVNdu9krp8)**
+
+[![members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1452128644221767733)](https://discord.gg/nVNdu9krp8)
 
 ---
 
