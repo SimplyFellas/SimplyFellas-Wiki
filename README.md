@@ -64,22 +64,20 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 
 ---
 
+[![members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1452128644221767733)](https://discord.gg/nVNdu9krp8)
+
+<img src="Banners/DiscordBubble.png" alt="Discord" class="discord-image">
+
+**[Join the SimplyFellas Discord →](https://discord.gg/nVNdu9krp8)**
+
+---
+
 <img src="Banners/VersionBanner.png" alt="Version" class="banner-image">
 
 * **Minecraft Version**: 1.21.1
 * **Modpack Version**: 1.3.5
 * **Modloader**: NeoForge
 * **Mod Count**: ~200 mods
-
----
-
-<widgetbot
-    server="1452128644221767733"
-    channel="1452128645530259631"
-    width="800"
-    height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 
 ---
 
