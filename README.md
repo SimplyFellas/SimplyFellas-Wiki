@@ -77,7 +77,7 @@ Explore the comprehensive SimplyFellas wiki organized by category. Click the lin
 * **Minecraft Version**: 1.21.1
 * **Modpack Version**: 1.5.7
 * **Modloader**: NeoForge
-* **Mod Count**: ~200 mods
+* **Mod Count**: ~300 mods
 
 ---
 
